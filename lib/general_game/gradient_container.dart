@@ -20,5 +20,3 @@ class GradientContainer extends StatelessWidget {
     );
   }
 }
-
-// committing
